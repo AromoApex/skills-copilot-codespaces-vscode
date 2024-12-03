@@ -1,0 +1,10 @@
+{
+    "name": "My Dev Container",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Github.copilot",
+            ]
+        }
+    }
+}
